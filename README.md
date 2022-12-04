@@ -35,7 +35,7 @@ Here are some books, youtube videos, websites and blog
 
 
 ## 🚀 About Me
-19,  physics student. Writing my everyday jpurney with code and documenting it here.
+19,  physics student. Writing my everyday journey with code and documenting it here.
 
 
 ## FAQ
